@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479513694253",
+    "project_id": "harvard-university-dictionary",
+    "storage_bucket": "harvard-university-dictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479513694253:android:4ae4fded03f7cd55af28a4",
+        "android_client_info": {
+          "package_name": "com.donarison.harvard.dictionary.english"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479513694253-1lv7p02ntr9j5mjsfieegqjprf7t6lbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0L0TJWKhQm3Qm-5dZPsOUICieYyvrdx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479513694253-1lv7p02ntr9j5mjsfieegqjprf7t6lbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
